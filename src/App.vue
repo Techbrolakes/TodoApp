@@ -2,7 +2,7 @@
   <v-app>
     <v-app-bar
       app
-      color="green darken-2"
+      color="green darken-3"
       dark
     >
     <h1>Todo App</h1>
